@@ -46,3 +46,9 @@ Para o correto funcionamento, o arquivo de entrada deve ser um **CSV** (separado
 ## Integrações
 
 * **API do Banco Central do Brasil:** Utilizada para obter o histórico da taxa Selic e auxiliar nos cálculos de rendimento das metas.
+
+## 👤 Autor
+
+**Willian Mateus** | *Data Analyst & BI*
+
+ ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
